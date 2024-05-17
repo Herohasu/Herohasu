@@ -1,4 +1,8 @@
 ### Hi there 👋
+This is Harsh Ajay From diu persuing B-Tech IT  at Parul University.
+I’m currently learning JavaScript and Web Development 
+You Can Reach me through LinkedIn: https://www.linkedin.com/in/harsh-ajay-595615243/
+
 
 <!--
 **Herohasu/Herohasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
